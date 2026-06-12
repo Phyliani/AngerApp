@@ -32,7 +32,7 @@ Die App für Schüler\*innen am Angergymnasium Jena.
 
 ## Support
 
-Für Fragen oder Support kann man mich mit einer E-Mail an angerapp@robertstuendl.com erreichen.
+Für Fragen oder Support kann man sich leider noch nicht bei irgendwem melden. sry XD
 
 
 
